@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/github/cervs257/ece590-sentiment-analysis/main/sentiment_word2vec.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cervs257/ece590-sentiment-analysis/main/sentiment_word2vec.ipynb)
 
 ## Template for Python projects
 

@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/github/cervs257/ece590-sentiment-analysis/main/sentiment_word2vec.ipynb)
+
 ## Template for Python projects
 
 1. First thing to do on launch is to open a new shell and verify virtualenv is sourced.
